@@ -11,14 +11,14 @@
 ## Skills <br />
 Java, JavaScript, HTML, CSS, C#, C++, C, Swift. <br />
   
-  ![Java](https://img.shields.io/badge/-Java-ADABAA?style=flat&logo=Java)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-ADABAA?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-ADABAA?style=flat-square&logo=html5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-ADABAA?style=flat-square&logo=css3)
-  ![C++](https://img.shields.io/badge/-C++-ADABAA?style=flat&logo=c++)
-  ![C](https://img.shields.io/badge/-C-ADABAA?style=flat&logo=C)
-  ![Swift](https://img.shields.io/badge/-Swift-ADABAA?style=flat&logo=Swift)
-  ![NodeJS](https://img.shields.io/badge/-node.js-ADABAA?style=flat&logo=node.js)
+  ![Java](https://img.shields.io/badge/-Java-444444?style=?style=for-the-badge&logo=Java)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-444444?style=flat-square&logo=html5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-444444?style=flat-square&logo=css3)
+  ![C++](https://img.shields.io/badge/-C++-444444?style=flat&logo=C++)
+  ![C](https://img.shields.io/badge/-C-444444?style=flat&logo=C)
+  ![Swift](https://img.shields.io/badge/-Swift-444444?style=flat&logo=Swift)
+  ![NodeJS](https://img.shields.io/badge/-node.js-444444?style=flat&logo=node.js)
 
 
 
