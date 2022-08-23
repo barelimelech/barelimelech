@@ -11,20 +11,22 @@
 ## Skills & Tools <br />
   
   ![Java](https://img.shields.io/badge/-Java-5B5B5B?style=for-the-badge&logo=Java)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-5B5B5B?style=for-the-badge&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-5B5B5B?style=for-the-badge&logo=html5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-5B5B5B?style=for-the-badge&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus)
   ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C)
-  ![Swift](https://img.shields.io/badge/-Swift-5B5B5B?style=for-the-badge&logo=Swift)
-  ![NodeJS](https://img.shields.io/badge/-node.js-5B5B5B?style=for-the-badge&logo=node.js)
+  ![Swift](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=Swift)
+  ![NodeJS](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=node.js)
   </br>
   
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-5B5B5B?style=for-the-badge&logo=Android%20Studio)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5B5B5B?style=for-the-badge&logo=Visual%20Studio)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-5B5B5B?style=for-the-badge&logo=Visual%20Studio%20Code)
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJIDEA-5B5B5B?style=for-the-badge&logo=intellijidea)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-5B5B5B?style=for-the-badge&logo=MongoDB)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual%20Studio)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea)
+  ![Xcode](https://img.shields.io/badge/-xcode-147EFB?style=for-the-badge&logo=xcode)
+
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB)
 
 
 
