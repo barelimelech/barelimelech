@@ -9,16 +9,15 @@
 💻 Looking for my first software developer position 💻 <br />
 
 ## Skills <br />
-Java, JavaScript, HTML, CSS, C#, C++, C, Swift. <br />
   
-  ![Java](https://img.shields.io/badge/-Java-444444?style=for-the-badge&logo=Java)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=for-the-badge&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-444444?style=for-the-badge&logo=html5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-444444?style=for-the-badge&logo=css3)
-  ![C++](https://img.shields.io/badge/-C++-444444?style=for-the-badge&logo=C++)
-  ![C](https://img.shields.io/badge/-C-444444?style=for-the-badge&logo=C)
-  ![Swift](https://img.shields.io/badge/-Swift-444444?style=for-the-badge&logo=Swift)
-  ![NodeJS](https://img.shields.io/badge/-node.js-444444?style=for-the-badge&logo=node.js)
+  ![Java](https://img.shields.io/badge/-Java-5B5B5B?style=for-the-badge&logo=Java)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-5B5B5B?style=for-the-badge&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-5B5B5B?style=for-the-badge&logo=html5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-5B5B5B?style=for-the-badge&logo=css3)
+  ![C++](https://img.shields.io/badge/-C++-5B5B5B?style=for-the-badge&logo=C++)
+  ![C](https://img.shields.io/badge/-C-5B5B5B?style=for-the-badge&logo=C)
+  ![Swift](https://img.shields.io/badge/-Swift-5B5B5B?style=for-the-badge&logo=Swift)
+  ![NodeJS](https://img.shields.io/badge/-node.js-5B5B5B?style=for-the-badge&logo=node.js)
 
 
 
