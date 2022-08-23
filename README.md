@@ -23,7 +23,7 @@
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-5B5B5B?style=for-the-badge&logo=Android%20Studio)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5B5B5B?style=for-the-badge&logo=Visual%20Studio)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-5B5B5B?style=for-the-badge&logo=Visual%20Studio%20Code)
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJIDEA-5B5B5B?style=for-the-badge&logo=IntelliJIDEA)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJIDEA-5B5B5B?style=for-the-badge&logo=intellijidea)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-5B5B5B?style=for-the-badge&logo=MongoDB)
 
 
