@@ -12,13 +12,13 @@
 Java, JavaScript, HTML, CSS, C#, C++, C, Swift. <br />
   
   ![Java](https://img.shields.io/badge/-Java-444444?style=for-the-badge&logo=Java)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-444444?style=flat-square&logo=html5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-444444?style=flat-square&logo=css3)
-  ![C++](https://img.shields.io/badge/-C++-444444?style=flat&logo=C++)
-  ![C](https://img.shields.io/badge/-C-444444?style=flat&logo=C)
-  ![Swift](https://img.shields.io/badge/-Swift-444444?style=flat&logo=Swift)
-  ![NodeJS](https://img.shields.io/badge/-node.js-444444?style=flat&logo=node.js)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=for-the-badge&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-444444?style=for-the-badge&logo=html5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-444444?style=for-the-badge&logo=css3)
+  ![C++](https://img.shields.io/badge/-C++-444444?style=for-the-badge&logo=C++)
+  ![C](https://img.shields.io/badge/-C-444444?style=for-the-badge&logo=C)
+  ![Swift](https://img.shields.io/badge/-Swift-444444?style=for-the-badge&logo=Swift)
+  ![NodeJS](https://img.shields.io/badge/-node.js-444444?style=for-the-badge&logo=node.js)
 
 
 
