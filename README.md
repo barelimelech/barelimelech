@@ -38,19 +38,15 @@
 <a href="https://www.linkedin.com/in/bar-elimelech/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="mailto:barelimelech01@gmail.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 
   </br>
-<!--
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barelimelech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barelimelech)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--
 | <a href="https://github.com/barelimelech/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=barelimelech&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github status" /></a> | <a href="https://github.com/barelimelech/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barelimelech&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 -->
-
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=barelimelech&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barelimelech&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 
 
 <!--
