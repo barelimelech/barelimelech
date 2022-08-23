@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm
 
 ###
 
@@ -7,6 +7,9 @@
 
 👩‍🎓 B.Sc. in Computer Science with specialization in Full-Stack 👩‍🎓 <br />
 💻 Looking for my first software developer position 💻 <br />
+  </br>
+  </br>
+  </br>
 
 ## Skills & Tools <br />
   
@@ -28,9 +31,12 @@
 
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 
+  </br>
+  </br>
+  </br>
 
 
-## How to reach me
+## Contact me
 
 <a href="https://www.linkedin.com/in/bar-elimelech/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="mailto:barelimelech01@gmail.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 
