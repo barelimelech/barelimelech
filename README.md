@@ -15,8 +15,8 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus)
   ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus)
   ![Swift](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   </br>
