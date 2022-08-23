@@ -8,7 +8,7 @@
 👩‍🎓 B.Sc. in Computer Science with specialization in Full-Stack 👩‍🎓 <br />
 💻 Looking for my first software developer position 💻 <br />
 
-## Skills <br />
+## Skills & Tools <br />
   
   ![Java](https://img.shields.io/badge/-Java-5B5B5B?style=for-the-badge&logo=Java)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-5B5B5B?style=for-the-badge&logo=javascript)
@@ -18,6 +18,17 @@
   ![C](https://img.shields.io/badge/-C-5B5B5B?style=for-the-badge&logo=C)
   ![Swift](https://img.shields.io/badge/-Swift-5B5B5B?style=for-the-badge&logo=Swift)
   ![NodeJS](https://img.shields.io/badge/-node.js-5B5B5B?style=for-the-badge&logo=node.js)
+  </br>
+  ![NodeJS](https://img.shields.io/badge/-node.js-5B5B5B?style=for-the-badge&logo=node.js)
+  ![NodeJS](https://img.shields.io/badge/-node.js-5B5B5B?style=for-the-badge&logo=node.js)
+  ![NodeJS](https://img.shields.io/badge/-node.js-5B5B5B?style=for-the-badge&logo=node.js)
+  ![NodeJS](https://img.shields.io/badge/-node.js-5B5B5B?style=for-the-badge&logo=node.js)
+  
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-5B5B5B?style=for-the-badge&logo=Android%20Studio)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5B5B5B?style=for-the-badge&logo=Visual%20Studio)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-5B5B5B?style=for-the-badge&logo=Visual%20Studio%20Code)
+  ![IntelliJIDEA](https://img.shields.io/badge/-IntelliJIDEA-5B5B5B?style=for-the-badge&logo=IntelliJIDEA)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-5B5B5B?style=for-the-badge&logo=MongoDB)
 
 
 
