@@ -11,7 +11,7 @@
 ## Skills <br />
 Java, JavaScript, HTML, CSS, C#, C++, C, Swift. <br />
   
-  ![Java](https://img.shields.io/badge/-Java-444444?style=?style=for-the-badge&logo=Java)
+  ![Java](https://img.shields.io/badge/-Java-444444?style=for-the-badge&logo=Java)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-444444?style=flat-square&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS3-444444?style=flat-square&logo=css3)
