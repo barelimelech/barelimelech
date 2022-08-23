@@ -15,16 +15,16 @@ Java, JavaScript, HTML, CSS, C#, C++, C, Swift. <br />
 idea
 
   
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=white)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/-node.js-333333?style=flat&logo=node.js&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=css3&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++&logoColor=white)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=white)
-  ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++)
+  ![NodeJS](https://img.shields.io/badge/-node.js-333333?style=flat&logo=node.js)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=html5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=css3)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
+  ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)
 
 
 ## How to reach me
