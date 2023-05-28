@@ -19,8 +19,8 @@
   ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus)
   ![Swift](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Python](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=python)
-  ![React](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=react)
+  ![Python](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=python&logoColor=blue)
+  ![React](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=react&logoColor=purple)
   </br>
   
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white)
